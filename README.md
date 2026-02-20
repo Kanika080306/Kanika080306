@@ -6,8 +6,8 @@
 A 3rd-year undergraduate student pursuing B. Tech in Computer Science (AIML).<br><br>
 🤖 Interested in machine learning, applied AI, and building interactive systems with a focus on practical implementation..<br><br>
 🏫 Studying at Manipal University Jaipur.<br><br>
-🔧 Currently working on frontend and ML-based projects, including mobile applications, ML experimentation tools, and end-to-end analysis systems.<br><br>
-📁 Actively learning and improving skills through academic and personal projects, with an emphasis on clean code, system design, and usability.<br><br>
+🔧 Currently working on frontend and ML-based projects, including mobile applications and ML experimentation tools.<br><br>
+📁 Actively learning and improving skills through academics and projects, with an emphasis on clean code, system design, and usability.<br><br>
 🌱 Passionate about building real-world applications and solving problems.<br><br>
 🛠️ Open to learning new technologies, collaborating on projects, and gaining hands-on industry experience.<br><br>
 📊 Familiar with tools and technologies such as Python, JavaScript, React, React Native, Expo, basic NLP, and machine learning libraries.<br><br>
