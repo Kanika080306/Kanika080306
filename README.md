@@ -18,11 +18,11 @@ A 3rd-year undergraduate student pursuing B. Tech in Computer Science (AIML).<br
 # 🙋 Socials
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kanika030806@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/kanika-singh-244516369/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
 
