@@ -3,15 +3,14 @@
 
 <h2>About Me:</h2>
 <br>
-A 3rd-year undergraduate student pursuing B. Tech in Electronics and Communication Engineering.<br><br>
-🤖 Specialization in AI & Cybernetics.<br><br>
-🏫 Studying at VIT University.<br><br>
-💻 Interested in Robotics, Machine Learning and IoT.<br><br>
-🔧 Currently learning ROS & Power Electronics.<br><br>
-📁 Working on academic and personal projects to gain hands-on experience.<br><br>
+A 3rd-year undergraduate student pursuing B. Tech in Computer Science (AIML).<br><br>
+🤖 Interested in machine learning, applied AI, and building interactive systems with a focus on practical implementation..<br><br>
+🏫 Studying at Manipal University Jaipur.<br><br>
+🔧 Currently working on frontend and ML-based projects, including mobile applications, ML experimentation tools, and end-to-end analysis systems.<br><br>
+📁 Actively learning and improving skills through academic and personal projects, with an emphasis on clean code, system design, and usability.<br><br>
 🌱 Passionate about building real-world applications and solving problems.<br><br>
-🛠️ Open to exploring new technologies and collaborating on projects.<br><br>
-📊 Familiar with tools like VS Code, Arduino IDE, Studio and many others.<br><br>
+🛠️ Open to learning new technologies, collaborating on projects, and gaining hands-on industry experience.<br><br>
+📊 Familiar with tools and technologies such as Python, JavaScript, React, React Native, Expo, basic NLP, and machine learning libraries.<br><br>
 📫 Always looking to learn and improve.
 
 ###
