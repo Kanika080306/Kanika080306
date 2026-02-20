@@ -19,19 +19,19 @@ A 3rd-year undergraduate student pursuing B. Tech in Electronics and Communicati
 # 🙋 Socials
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.hackerrank.com/Kanika080306" target="_blank">
+  <a href="https://www.hackerrank.com/Kanika080306">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://linktr.ee/Kanika080306" target="_blank">
+  <a href="https://linktr.ee/Kanika080306">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&color=1de9b6&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://medium.com/@Kanika080306" target="_blank">
+  <a href="https://medium.com/@Kanika080306">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
