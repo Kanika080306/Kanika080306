@@ -46,13 +46,10 @@ A 3rd-year undergraduate student pursuing B. Tech in Electronics and Communicati
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kanika080306/Kanika080306/output/snake.svg" alt="Snake animation" />
-###
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Kanika080306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<img align="right" height="300" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFteW1xbWh0MXhpNmNvcDFvN3EyYm0yenluZjZhYWhka291cWxvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZsVhGBa2QB7U31BnPo/giphy.gif" />
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Kanika080306&theme=dark&hide_border=false)<br/>
 
