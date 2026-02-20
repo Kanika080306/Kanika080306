@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kanika Singh</h1>
-<h6 align="center">A passionate electronics enthusiast from India, with a strong foundation in coding, circuit design, embedded systems, and hardware-software integration.</h6><br><br>
+<h6 align="center">A software-focused student from India with a strong interest in programming and system development.</h6><br><br>
 
 <h2>About Me:</h2>
 <br>
